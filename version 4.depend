@@ -1,0 +1,254 @@
+# depslib dependency file v1.0
+1681435022 source:c:\users\administrator\desktop\new folder (4)\version 4\date.cpp
+	"Date.h"
+
+1681435060 c:\users\administrator\desktop\new folder (4)\version 4\date.h
+	<iostream>
+
+1681435068 source:c:\users\administrator\desktop\new folder (4)\version 4\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"Date.h"
+
+1682291525 source:c:\users\administrator\desktop\new folder\new folder\date.cpp
+	"Date.h"
+
+1681770745 c:\users\administrator\desktop\new folder\new folder\date.h
+	<iostream>
+	<string.h>
+
+1682448828 source:c:\users\administrator\desktop\new folder\new folder\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"Date.h"
+	"PrixJournalier.h"
+	"PersistancePrixJournaliers.h"
+	"Bourse.h"
+	"BourseVector.h"
+	"Titre.h"
+	"Portefeuille.h"
+	"Transaction.h"
+	"Trader.h"
+	"TraderAléatoire.h"
+	"Simulation.h"
+
+1681771114 c:\users\administrator\desktop\new folder\new folder\prixjournalier.h
+	<iostream>
+	<string>
+	<cstring>
+	"Date.h"
+
+1681723815 c:\users\administrator\desktop\new folder\new folder\persistanceprixjournaliers.h
+	<vector>
+	<fstream>
+	"PrixJournalier.h"
+
+1682436092 c:\users\administrator\desktop\new folder\new folder\bourse.h
+	"Date.h"
+	"PrixJournalier.h"
+	<vector>
+	<algorithm>
+
+1682436092 c:\users\administrator\desktop\new folder\new folder\boursevector.h
+	"Bourse.h"
+	"PrixJournalier.h"
+	"Date.h"
+
+1682436092 source:c:\users\administrator\desktop\new folder\new folder\boursevector.cpp
+	"BourseVector.h"
+
+1681724021 source:c:\users\administrator\desktop\new folder\new folder\persistanceprixjournaliers.cpp
+	"PersistancePrixJournaliers.h"
+	"Date.h"
+	<vector>
+	<iostream>
+	<fstream>
+
+1682353036 source:c:\users\administrator\desktop\new folder\new folder\prixjournalier.cpp
+	"PrixJournalier.h"
+
+1682355369 source:c:\users\administrator\desktop\new folder\new folder\titre.cpp
+	"Titre.h"
+
+1682355369 c:\users\administrator\desktop\new folder\new folder\titre.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
+1682525109 c:\users\administrator\desktop\new folder\new folder\portefeuille.h
+	"Titre.h"
+
+1682525109 source:c:\users\administrator\desktop\new folder\new folder\portefeuille.cpp
+	"Portefeuille.h"
+
+1682357073 c:\users\administrator\desktop\new folder\new folder\transaction.h
+	<iostream>
+	<string>
+
+1682355369 source:c:\users\administrator\desktop\new folder\new folder\transaction.cpp
+	"Transaction.h"
+
+1682357103 source:c:\users\administrator\desktop\new folder\new folder\traderaléatoire.cpp
+	"TraderAléatoire.h"
+
+1682525069 c:\users\administrator\desktop\new folder\new folder\traderaléatoire.h
+	"Trader.h"
+
+1682525069 c:\users\administrator\desktop\new folder\new folder\trader.h
+	"Bourse.h"
+	"Transaction.h"
+	"Portefeuille.h"
+
+1682524682 source:c:\users\administrator\desktop\new folder\new folder\simulation.cpp
+	"Simulation.h"
+
+1682283418 c:\users\administrator\desktop\new folder\new folder\simulation.h
+	"Date.h"
+	"Bourse.h"
+	"Portefeuille.h"
+	"Trader.h"
+	"TraderAléatoire.h"
+	"Transaction.h"
+
+1683652997 source:c:\users\administrator\desktop\new folder (2)\new folder\date.cpp
+	"Date.h"
+
+1683653019 c:\users\administrator\desktop\new folder (2)\new folder\date.h
+	<iostream>
+	<string.h>
+
+1681724021 source:c:\users\administrator\desktop\new folder (2)\new folder\persistanceprixjournaliers.cpp
+	"PersistancePrixJournaliers.h"
+	"Date.h"
+	<vector>
+	<iostream>
+	<fstream>
+
+1681723815 c:\users\administrator\desktop\new folder (2)\new folder\persistanceprixjournaliers.h
+	<vector>
+	<fstream>
+	"PrixJournalier.h"
+
+1684012680 c:\users\administrator\desktop\new folder (2)\new folder\prixjournalier.h
+	<iostream>
+	<string>
+	<cstring>
+	"Date.h"
+
+1683847823 source:c:\users\administrator\desktop\new folder (2)\new folder\portefeuille.cpp
+	"Portefeuille.h"
+
+1683545394 c:\users\administrator\desktop\new folder (2)\new folder\portefeuille.h
+	"Titre.h"
+
+1682886098 c:\users\administrator\desktop\new folder (2)\new folder\titre.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
+1684137931 source:c:\users\administrator\desktop\new folder (2)\new folder\prixjournalier.cpp
+	"PrixJournalier.h"
+
+1682639947 source:c:\users\administrator\desktop\new folder (2)\new folder\titre.cpp
+	"Titre.h"
+
+1683578467 source:c:\users\administrator\desktop\new folder (2)\new folder\transaction.cpp
+	"Transaction.h"
+
+1683546624 c:\users\administrator\desktop\new folder (2)\new folder\transaction.h
+	<iostream>
+	<string>
+	"Titre.h"
+
+1684136914 source:c:\users\administrator\desktop\new folder (2)\new folder\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<chrono>
+	<map>
+	"Date.h"
+	"PrixJournalier.h"
+	"PersistancePrixJournaliers.h"
+	"Bourse.h"
+	"BourseVector.h"
+	"Titre.h"
+	"Portefeuille.h"
+	"Transaction.h"
+	"Trader.h"
+	"TraderAléatoire.h"
+	"Simulation.h"
+	<iomanip>
+	"BourseMmap.h"
+	"TraderAlgorithmique.h"
+	"BourseSet.h"
+
+1683908800 c:\users\administrator\desktop\new folder (2)\new folder\bourse.h
+	"Date.h"
+	"PrixJournalier.h"
+	<vector>
+	<set>
+	<map>
+	<algorithm>
+
+1683908368 c:\users\administrator\desktop\new folder (2)\new folder\boursevector.h
+	"Bourse.h"
+	"PrixJournalier.h"
+	"Date.h"
+
+1683066820 c:\users\administrator\desktop\new folder (2)\new folder\trader.h
+	"Bourse.h"
+	"Transaction.h"
+	"Portefeuille.h"
+
+1682886098 c:\users\administrator\desktop\new folder (2)\new folder\traderaléatoire.h
+	"Trader.h"
+
+1684061769 c:\users\administrator\desktop\new folder (2)\new folder\simulation.h
+	<chrono>
+	<map>
+	"Date.h"
+	"Bourse.h"
+	"Portefeuille.h"
+	"Trader.h"
+	"TraderAléatoire.h"
+	"Transaction.h"
+
+1684138564 source:c:\users\administrator\desktop\new folder (2)\new folder\simulation.cpp
+	"Simulation.h"
+
+1684061769 source:c:\users\administrator\desktop\new folder (2)\new folder\boursevector.cpp
+	"BourseVector.h"
+
+1684061769 source:c:\users\administrator\desktop\new folder (2)\new folder\traderaléatoire.cpp
+	"TraderAléatoire.h"
+	<cmath>
+
+1684104336 source:c:\users\administrator\desktop\new folder (2)\new folder\bourseset.cpp
+	"BourseSet.h"
+
+1684104336 c:\users\administrator\desktop\new folder (2)\new folder\bourseset.h
+	"Bourse.h"
+	"PrixJournalier.h"
+	"Date.h"
+
+1684104336 source:c:\users\administrator\desktop\new folder (2)\new folder\boursemmap.cpp
+	"BourseMmap.h"
+
+1683908368 c:\users\administrator\desktop\new folder (2)\new folder\boursemmap.h
+	"Bourse.h"
+	"PrixJournalier.h"
+	"Date.h"
+
+1683846485 c:\users\administrator\desktop\new folder (2)\new folder\traderalgorithmique.h
+	"Trader.h"
+
+1684099566 source:c:\users\administrator\desktop\new folder (2)\new folder\traderalgorithmique.cpp
+	"TraderAlgorithmique.h"
+	<cmath>
+
